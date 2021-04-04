@@ -1,0 +1,100 @@
+*{
+	box-sizing: border-box;
+	
+}
+
+body{
+	background-color
+	margin: 0;
+	padding: 0;
+	font-family: 'Oxygen', sans-serif;
+	background-color: maroon;
+
+}
+
+#header-nav{
+	background-color:white;
+	font-family: 'Oxygen', sans-serif;
+	padding-left: 3vw; 
+
+}
+
+.navbar-brand > p {
+
+		color: green;
+		font-size: 2em;
+		font-weight: bold;
+			font-family: 'Lora', sans-serif;
+
+}
+
+.navbar-brand:hover, .navbar-brand:focus{
+	text-decoration: none;
+}
+
+.navbar-brand p{
+	padding-top: 1vw;
+}
+
+		
+ul > li{
+	text-align: center;
+	
+	color: white;
+	font-size: 125%;
+	border-top: 1px solid black;
+	
+}
+
+
+li:hover{
+	font-weight: bold;
+
+	background-color: green;
+}
+ul{
+	border-bottom: 1px solid black;
+}
+
+h1{
+	text-align: center;
+	font-weight: bold;
+	color: white;
+	padding-top: 2vw;
+}
+
+.sec{
+	background-color: grey;
+	padding: 1vw;
+	margin: 1vw;
+	float: left;
+	margin: 4vw;
+	color: white;
+	position: relative;
+}
+
+#fir{
+	text-align: center;
+	font-weight: bold;
+	font-style: italic;
+	text-decoration: underline;
+}
+#seco{
+	text-align: center;
+	font-weight: bold;
+	font-style: italic;
+	text-decoration: underline;
+}
+#thir{
+	text-align: center;
+	font-weight: bold;
+	font-style: italic;
+	text-decoration: underline;
+	}
+	sec a:hover,sec a:active{
+		text-decoration:none;
+	}
+.sec p{
+
+	color: black;
+}
